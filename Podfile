@@ -3,7 +3,7 @@ use_frameworks!
 
 def shared_pods
     pod 'SwiftyBeaver'
-    pod 'OpenSSL-Apple', '~> 1.1.1w.1'
+    pod 'OpenSSL-Apple', '1.1.1l.11'
     #pod 'OpenSSL-Apple', :path => '../../personal/openssl-apple'
 end
 
